@@ -19,7 +19,7 @@ A Web Developer 🚀 from Mumbai,India. Currently pursuing engineering degree in
 <br/>
 
 <p align="center">
-    <img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
+    <img src="https://bingimages.herokuapp.com" width="800" height="400">
 </p>    
 
 <h1 align="center">
