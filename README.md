@@ -1,32 +1,16 @@
-### Hi there 👋
 
-<!--
-**padhysneha/padhysneha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
 />
 
-## नमस्ते (Namaste)🙏🏻, I'm Bhoomika Wavhal<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+## नमस्ते (HELLO )🙏🏻, I'm Sneha Padhy<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wbhoomika.wbhoomika)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=padhysneha)
 
 <br/>
 
-A passionate self-taught Web Developer 🚀 from India. Currently pursuing engineering degree in Electronics and Communication from Usha Mittal Institute of Technology, SNDT Women's University. I have a passion for learning and sharing my knowledge with others as publicly as possible. Always curious to learn cutting edge technology. A bit enthusiast towards web development. I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications. 
-
+A Web Developer 🚀 from Mumbai,India. Currently pursuing engineering degree in Information Technology from Usha Mittal Institute of Technology, SNDT Women's University. I have a passion for learning and sharing my knowledge with others as publicly as possible. Always curious to learn cutting edge technology. A bit enthusiast towards web development. I have excellent design & coding skills.
 <br/>
 <h3> For me coding is like magic. </h3>
 
@@ -43,20 +27,12 @@ A passionate self-taught Web Developer 🚀 from India. Currently pursuing engin
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/bhoomikawavhal">
+  <a href="https://www.linkedin.com/in/sneha-padhy-4750301b5">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://www.youtube.com/channel/UClqJVGYlpIqTuGPM5sxU0Vg">
-    <img src="https://img.shields.io/badge/YouTube-%230A0A0A.svg?&style=flat-square&logo=youtube&logoColor=white">  
-  </a>
- 
-   <a href="https://github.com/wbhoomika">
+   <a href="https://github.com/padhysneha">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
- 
-  <a href="https://twitter.com/wbhoomika">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 </p>
 </h1>
