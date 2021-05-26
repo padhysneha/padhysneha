@@ -6,7 +6,7 @@
 
 ## नमस्ते (HELLO )🙏🏻, I'm Sneha Padhy<img src="https://giphy.com/gifs/molangofficialpage-love-cute-xlcR4sYSBT34fQqApS/giphy.gif" width="50"> 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=padhysneha)
+![ Visitors ](https://visitor-badge.glitch.me/badge?page_id=padhysneha)
 
 <br/>
 
