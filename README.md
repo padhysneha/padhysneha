@@ -4,7 +4,7 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
 />
 
-## नमस्ते (HELLO )🙏🏻, I'm Sneha Padhy<img src="https://giphy.com/gifs/molangofficialpage-love-cute-xlcR4sYSBT34fQqApS" width="50"> 
+## नमस्ते (HELLO )🙏🏻, I'm Sneha Padhy<img src="https://giphy.com/gifs/molangofficialpage-love-cute-xlcR4sYSBT34fQqApS " width="50"> 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=padhysneha)
 
