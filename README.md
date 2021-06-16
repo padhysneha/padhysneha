@@ -4,9 +4,12 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
 />
 
-## नमस्ते (HELLO )🙏🏻, I'm Sneha Padhy<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+﻿<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sneha Padhy</h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 
-![ Visitors ](https://visitor-badge.glitch.me/badge?page_id=padhysneha)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/padhysneha/count.svg" />
+</p>
 
 <br/>
 
@@ -14,20 +17,16 @@ A Web Developer 🚀 from Mumbai,India. Currently pursuing engineering degree in
 <br/>
 <h3> For me coding is like magic. </h3>
 
-➡️  Refresh this page to see MAGIC. 
-
-<br/>
-
 <p align="center">
-    <img src="https://bingimages.herokuapp.com" width="800" height="400">
-</p>    
+<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+ </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=padhysneha&show_icons=true&locale=en" alt="padhysneha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padhysneha&" alt="padhysneha" /></p>
+<p><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padhysneha&layout=compact&langs_count=8&theme=radical"/></p>
 
 <h1 align="center">
 <h3> 🤝🏻 Connect with Me </h3>
