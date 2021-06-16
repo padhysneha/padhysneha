@@ -26,7 +26,7 @@ A Web Developer 🚀 from Mumbai,India. Currently pursuing engineering degree in
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=padhysneha&show_icons=true&locale=en" alt="padhysneha" /></p>
 
-<p><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padhysneha&layout=compact&langs_count=8&theme=radical"/></p>
+<p><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padhysneha&layout=compact&langs_count=8&theme=white"/></p>
 
 <h1 align="center">
 <h3> 🤝🏻 Connect with Me </h3>
