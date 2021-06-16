@@ -6,10 +6,6 @@
 
 ﻿<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sneha Padhy<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/padhysneha/count.svg" />
-</p>
 
 <br/>
 
@@ -28,7 +24,7 @@ A Web Developer 🚀 from Mumbai,India. Currently pursuing engineering degree in
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padhysneha&include_all_commits=true&theme=dark&show_icons=true)
-<img src="https://activity-graph.herokuapp.com/graph?username=robin025&theme=react-dark" alt="Contribution Graph" align="center" />
+<img src="https://activity-graph.herokuapp.com/graph?username=padhysneha&theme=react-dark" alt="Contribution Graph" align="center" />
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=padhysneha)](https://github.com/padhysneha)
 
 <h1 align="center">
