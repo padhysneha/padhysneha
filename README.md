@@ -11,7 +11,7 @@
 
 A Web Developer 🚀 from Mumbai,India. Currently pursuing engineering degree in Information Technology from Usha Mittal Institute of Technology, SNDT Women's University. I have a passion for learning and sharing my knowledge with others as publicly as possible. Always curious to learn cutting edge technology. A bit enthusiast towards web development. I have excellent design & coding skills.
 <br/>
-<h3> For me coding is like magic. </h3>
+
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
